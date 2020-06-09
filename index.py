@@ -20,4 +20,4 @@ async def general(ctx):
     await yangvstrump(ctx)
 
 
-bot.run('NjIxMzI3MDU2NzU5ODE2MjIz.XXjvSQ.9MA1fEHuBYKGaBZDyObbNkgkTOQ')
+bot.run('<more-fake-token>')
